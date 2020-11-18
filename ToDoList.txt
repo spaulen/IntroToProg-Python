@@ -1,0 +1,8 @@
+Lamp,50.00
+Couch,100.00
+Chair,12.00
+Kitchen Table,14.00
+Lazy Boy Chair,350.00
+Lazy Girl Chair,350.00
+Vase,20.00
+Mattress,80.00
